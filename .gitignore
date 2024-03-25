@@ -1,0 +1,13 @@
+AudiosFiltrados/
+AudiosSalida/
+Palabras/
+PalabrasPadding
+Caracteristicas.csv
+CoeficientesFPB.npy
+create_dataset.py
+dataset - dataset Version 1.csv
+dataset.csv
+lpc_coefficients.py
+lpc_librosa.py
+PruebaAudios.py
+__pycache__
